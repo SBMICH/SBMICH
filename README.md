@@ -1,9 +1,9 @@
-# Hola, soy Sebastian Buelvas 👋
+# Hola, soy Sebastian Buelvas
 
 Estudiante de Ingeniería de Sistemas. Me interesa la informática en general: desarrollo web, bases de datos,
 aprendizaje automático y buenas prácticas de software (pruebas, integración continua y análisis de calidad).
 
-📫 **Contacto:** [sb43423@gmail.com](mailto:sb43423@gmail.com)
+**Contacto:** [sb43423@gmail.com](mailto:sb43423@gmail.com)
 
 ---
 
@@ -13,7 +13,7 @@ aprendizaje automático y buenas prácticas de software (pruebas, integración c
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [Refugio Literario](https://github.com/SBMICH/RefugioLiterario)
+### [Refugio Literario](https://github.com/SBMICH/RefugioLiterario)
 
 Librería en línea con catálogo, búsqueda y filtros, carrito y compras, reseñas, lista de deseos y panel de
 administración.
@@ -29,7 +29,7 @@ administración.
 </td>
 <td width="50%" valign="top">
 
-### 🩺 [FGR Predict](https://github.com/SBMICH/flaskdatapredict)
+### [FGR Predict](https://github.com/SBMICH/flaskdatapredict)
 
 Aplicación web que compara cuatro modelos de aprendizaje automático para estimar la restricción del
 crecimiento fetal, con datos clínicos reales de un estudio publicado.
